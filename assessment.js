@@ -10,7 +10,8 @@
         '{userName}はどうぶつに例えるとイルカです。',
         '{userName}はどうぶつに例えるとチョウです。',
         '{userName}はどうぶつに例えるとシカです。',
-        '{userName}はどうぶつに例えるとタカです。'
+        '{userName}はどうぶつに例えるとタカです。',
+        '{userName}はどうぶつに例えるとカピバラです。'
     ];
 
     const userNameInput = document.getElementById('user-name');
